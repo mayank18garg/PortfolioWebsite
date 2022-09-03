@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/mayank-garg-700a6b101/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/mayank18garg"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:mgarg20@asu.edu"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/RDF.png",
+            "title": "RDF Database Management System",
+            "bodyText": "- Designed and implemented RDF Graph Database starting from storing data on disk to executing Database queries.\n -  Incorporated different Indexing scheme like BTree and Hash based to run the queries faster.\n - Evaluated and modeled the performance of the different Query execution strategies.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank18garg/baseless_DB"
+                }
+            ],
+            "tags" : [
+                "DBMS",
+                "Java",
+                "Minibase",
+                "SPARQL Query Language"
+            ]
+        },
+        {
+            "image" : "images/projects/CoursePortal.jpeg",
+            "title": "Online Course Registration Portal",
+            "bodyText": "- Developed full stack service-oriented web application, where students and staff can register and add the courses respectively.\n - Integrated all layers, components including GUI, web services, data files and deployed it onto **Webstrar**.\n - Incorporated Security system for users authentication and resource authorization.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank18garg/baseless_DB"
+                }
+            ],
+            "tags" : [
+                "ASP.NET",
+                "Full-Stack Web application",
+                "C#",
+                "Web Services",
+                "JavaScript",
+                "WebStrar",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/EdgeComputing.png",
+            "title": "Edge Computing Inference",
+            "bodyText": "- Running Machine Learned (ML) inference computation as close as possible to where the model input data is generated on a user’s device at the edge.\n - Used techniques like Model Quantization to reduce the Model size and Content Delivery Network to Optimize the Model Delivery as it is cached close to the user.\n - As a result, I was able to achieve 100x faster in the web browser than the Cloud-based Huggingface endpoint.",
+            "tags" : [
+                "Python",
+                "Cloudfare CDNs",
+                "HuggingFace",
+                "ONNX Runtime",
+                "Pytorch"
+            ]
+        },
+        {
+            "image" : "images/projects/ModelDeployment.png",
+            "title": "Web Application for Image Classification",
+            "bodyText": "- Developed a end-to-end web application using Python flask.\n - Dockerize the application and deployed onto Heroku server.\n - Used Pretrained Resnet18 model for classification.\n - Setup Continuous Integration with TravisCI and Pytest.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank18garg/Classification_ML"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "Travis-CI",
+                "Docker",
+                "Pytorch",
+                "Heroku"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon" : "images/skills/C-PNG-Image.png",
+                    "title" : "C++"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/c.svg",
+                    "title": "C#"
+                },
+                {
+                    "icon" : "images/skills/dbms.jpeg",
+                    "title": "DBMS"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/Matlab_Logo.png",
+                    "title": "MatLab"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/flask.jpeg",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/dot-NET-Core.png",
+                    "title": ".NET"
+                },
+                {
+                    "icon": "images/skills/pytorch-logo.png",
+                    "title": "Pytorch"
+                },
+                {
+                    "icon": "images/skills/AngularJS-Shield.svg",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/Tensorflow.png",
+                    "title": "Tensorflow"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+    }
+]}

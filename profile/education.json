@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Aug 2021 - May 2023",
+            "cardTitle": "MS, Computer Science",
+            "cardSubtitle":"Arizona State University, Tempe, AZ",
+            "cardDetailedText": "CGPA - 4.11"
+            
+        },
+        {
+            "title": "Aug 2015 - May 2019",
+            "cardTitle": "B.Tech, Electronics & Communication Engineering",
+            "cardSubtitle":"International Institute of Information Technology, Hyderabad (IIIT-H)"
+        }
+    ]
+}

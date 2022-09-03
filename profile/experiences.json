@@ -1,0 +1,38 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Internship",
+            "subtitle": "Rocket Mortgage LLC, Detroit, MI",
+            "workType": "Summer Internship",
+            "workDescription" :[
+                "Developing internal tools and building infrastructure to allow analysts and engineers to access crucial data 4x faster.",
+                "Revising and writing set of components and UI design pattern to develop Rocket Design System written in Angular.",
+                "Improving the web application performance from UI to database to enhance the end user experience."
+            ],
+            "dateText": "05/2022 - 08/2022"
+        },
+        {
+            "title": "Software Development Engineer",
+            "subtitle": "Samsung Research Institute Bangalore",
+            "workType": "Full-time",
+            "workDescription": [
+                "Development of System software for real time ML use-cases like Night Mode, Shot suggestion, Single Take on Samsung Mobile Devices.",
+                "Added support for many new operations present in DNN to run efficiently and securely for various frameworks like Tensorflow, TFLite, Caffe for real-time use cases.",
+                "Implemented support for mixed-precision format i.e FP16, which reduced inference time and memory upto 2.5x on the most arithmetically intense model architectures.",
+                "Worked on optimizations by writing compute unit-specific kernels to reduce inference time of operations(Convolution, pooling, etc.) on GPU."
+            ],
+            "dateText": "2019 – 2020"
+        },
+        {
+            "title": "Summer Internship",
+            "subtitle": "Siemens Technology & Services",
+            "workDescription" :[
+                "Assisted in development of the model for ”Road accident Detection on CCTV Traffic Videos”, where we considered Road accident as an anomaly and applied unsupervised learning.",
+                "Achieved the accuracy of 80% on German,Avenue,and UCSD dataset."
+            ],
+            "dateText": "05/2018 - 07/2018"
+        }
+        
+        
+    ]
+}
