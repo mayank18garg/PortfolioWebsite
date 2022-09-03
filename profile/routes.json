@@ -2,22 +2,22 @@
     "sections": [
         {
             "component": "About",
-            "path": "/about",
+            "path": "/portfolioWebsite/about",
             "headerTitle": "About"
         },
         {
             "component": "Skills",
-            "path": "/skills",
+            "path": "/portfolioWebsite/skills",
             "headerTitle": "Skills"
         },
         {
             "component": "Education",
-            "path": "/education",
+            "path": "/portfolioWebsite/education",
             "headerTitle": "Education"
         },
         {
             "component": "Experience",
-            "path": "/experience",
+            "path": "/portfolioWebsite/experience",
             "headerTitle": "Experience"
         },
         {
