@@ -22,7 +22,7 @@
         },
         {
             "component": "Projects",
-            "path": "/projects",
+            "path": "/portfolioWebsite/projects",
             "headerTitle": "Projects"
         }
     ]
